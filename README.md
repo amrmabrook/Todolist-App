@@ -8,6 +8,9 @@ A simple and responsive Todo List application built with React.js and Vite.
 
 </a>
 
+🧠 State Management & Data Persistence
+Context API: Used to manage and share application data across different components without passing props manually through multiple levels.
+LocalStorage: Used to persist tasks in the browser, so the tasks remain saved even after refreshing or reopening the page.
 
 
 ✨ Features
